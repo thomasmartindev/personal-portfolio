@@ -2,7 +2,7 @@
 
 React application which highlights my most recent projects.
 
-[Live Demo](https://thomasmdevelopment.github.io/personal-portfolio/)
+[Live Preview](https://thomasmdevelopment.com/)
 
 ## Built with
 
