@@ -69,7 +69,7 @@ export const Contact = () => {
       </Description>
       <FormContainer>
         <Link
-          href='https://github.com/thomasmdevelopment'
+          href='https://github.com/thomasmartindev'
           target='_blank'
         >
           <Github />

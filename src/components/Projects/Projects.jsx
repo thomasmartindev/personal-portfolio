@@ -35,7 +35,7 @@ export const Projects = () => {
         <em>
           For more projects, checkout{decode('&#160;')}
           <a 
-            href='https://github.com/thomasmdevelopment?tab=repositories'
+            href='https://github.com/thomasmartindev?tab=repositories'
             target='_blank'
           >
             my repositories

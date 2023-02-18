@@ -8,7 +8,7 @@ export const Footer = () => {
         {decode('&#169;')} Copyright 2023, Thomas Martin
       </p>
       <Link
-        href='https://github.com/thomasmdevelopment/portfolio'
+        href='https://github.com/thomasmartindev/personal-portfolio'
         target='_blank'
       >
         My portfolio is open source

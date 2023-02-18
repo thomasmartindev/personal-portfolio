@@ -4,7 +4,7 @@ import weatherDashboard from '../assets/weather-dashboard.png'
 
 export const projects = [
   {
-    github: 'https://github.com/thomasmdevelopment/random-store',
+    github: 'https://github.com/thomasmartindev/random-store',
     id: 0,
     image: randomStore,
     info: [
@@ -13,10 +13,10 @@ export const projects = [
       'Users can add and remove products from their shopping cart and track the total cost of their order.',
     ],
     title: 'Random Store',
-    website: 'https://thomasmdevelopment.github.io/random-store'
+    website: 'https://thomasmartindev.github.io/random-store'
   },
   {
-    github: 'https://github.com/thomasmdevelopment/cv-creator',
+    github: 'https://github.com/thomasmartindev/cv-creator',
     id: 1,
     image: cvCreator,
     info: [
@@ -25,10 +25,10 @@ export const projects = [
       'To avoid prop drilling, this project uses the Context API to share data across its components.'
     ],
     title: 'CV Creator',
-    website: 'https://thomasmdevelopment.github.io/cv-creator'
+    website: 'https://thomasmartindev.github.io/cv-creator'
   },
   {
-    github: 'https://github.com/thomasmdevelopment/weather-dashboard',
+    github: 'https://github.com/thomasmartindev/weather-dashboard',
     id: 2,
     image: weatherDashboard,
     info: [
@@ -37,6 +37,6 @@ export const projects = [
       "The data can be shown in either Celsius or Fahrenheit."
     ],
     title: 'Weather Dashboard',
-    website: 'https://thomasmdevelopment.github.io/weather-dashboard'
+    website: 'https://thomasmartindev.github.io/weather-dashboard'
   }
 ]
