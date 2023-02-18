@@ -2,7 +2,7 @@
 
 React application which highlights my most recent projects.
 
-[Live Preview](https://thomasmdevelopment.com/)
+[Live Preview](https://thomasmartindev.com/)
 
 ## Built with
 
