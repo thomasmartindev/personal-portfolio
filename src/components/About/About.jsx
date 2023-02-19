@@ -35,7 +35,7 @@ export const About = () => {
             href='https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0'
             target='_blank'
           >
-            Havard Universtity's CS50: Introduction to Computer Science
+            Harvard University's CS50: Introduction to Computer Science
           </a>
           . This course set the foundation for the knowledge I have today by teaching me how to solve programming problems efficiently and how both the web and programming languages work from a fundamental level.
         </p>
