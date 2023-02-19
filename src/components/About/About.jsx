@@ -27,7 +27,7 @@ export const About = () => {
       </Heading>
       <Description>
         <p>
-          Hi there, my name is Tom and I'm a Front-End Developer.
+          Hi there, my name is Tom, and I'm a Front-End Developer.
         </p>
         <p>
           My Web Development journey began following the completion of{decode('&#160;')}
