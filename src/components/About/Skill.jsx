@@ -30,11 +30,11 @@ const Container = styled.div`
     flex: 1;
     height: 50%;
     padding: 1rem 0;
-    width: ${({ name }) => name === 'STYLED-COMPONENTS' ? '50%' : '60%'};
+    width: ${({ name }) => name === 'STYLED COMPONENTS' ? '50%' : '60%'};
 
     @media (max-width: 1000px) {
-      padding: ${({ name }) => name === 'STYLED-COMPONENTS' ? '1rem 0' : '0.5rem 0'};
-      width: ${({ name }) => name === 'STYLED-COMPONENTS' ? '40%' : '60%'};
+      padding: ${({ name }) => name === 'STYLED COMPONENTS' ? '1rem 0' : '0.5rem 0'};
+      width: ${({ name }) => name === 'STYLED COMPONENTS' ? '40%' : '60%'};
     }
   }
 

@@ -37,10 +37,10 @@ export const About = () => {
           >
             Harvard University's CS50: Introduction to Computer Science
           </a>
-          . This course set the foundation for the knowledge I have today by teaching me how to solve programming problems efficiently and how both the web and programming languages work from a fundamental level.
+          . It was in this course where I fell in love with programming, building simple applications with C while learning concepts such as algorithms and data structures.
         </p>
         <p>
-          Today, I primarily use React and while I feel confident with the library, I’m certainly open to using technologies that I’m unfamiliar with as I love challenging myself and improving my skill set. Below are the languages and tools I have experience with thus far.
+          Today, my mind is focused on learning everything related to Web Development. I've worked with several technologies in the projects I've built, but I'm always looking to learn more with the end goal of improving the quality of my work. Listed below are the languages and tools I find myself using most often.
         </p>
       </Description>
       <Skills>
