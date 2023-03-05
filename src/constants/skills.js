@@ -1,14 +1,12 @@
 import reactLogo from '../assets/react.svg'
 import typescriptLogo from '../assets/typescript.svg'
-import reduxLogo from '../assets/redux.svg'
-import styledComponentsLogo from '../assets/styled-components.png'
-import gitLogo from '../assets/git.svg'
-import npmLogo from '../assets/npm.svg'
 import javascriptLogo from '../assets/javascript.svg'
 import cssLogo from '../assets/css.svg'
-import bootstrapLogo from '../assets/bootstrap.svg'
 import htmlLogo from '../assets/html.svg'
-import cLogo from '../assets/c.svg'
+import gitLogo from '../assets/git.svg'
+import reduxLogo from '../assets/redux.svg'
+import styledComponentsLogo from '../assets/styled-components.png'
+import npmLogo from '../assets/npm.svg'
 
 export const skills = [
   {
@@ -48,22 +46,12 @@ export const skills = [
   },
   {
     id: 7,
-    name: 'STYLED-COMPONENTS',
+    name: 'STYLED COMPONENTS',
     logo: styledComponentsLogo
   },
   {
     id: 8,
-    name: 'BOOTSTRAP',
-    logo: bootstrapLogo
-  },
-  {
-    id: 9,
     name: 'NPM',
     logo: npmLogo
-  },
-  {
-    id: 10,
-    name: 'C',
-    logo: cLogo
-  },
+  }
 ]
