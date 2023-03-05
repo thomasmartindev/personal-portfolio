@@ -86,15 +86,11 @@ const Container = styled.nav`
   @media (max-width: 800px) {
     justify-content: flex-end;
     max-width: 87.5vw;
-    padding: 4rem 5vw 0;
+    padding: 4rem 2vw 0;
   }
 
   @media (max-width: 600px) {
     padding-top: 2rem;
-  }
-
-  @media (max-width: 400px) {
-    padding-top: 1.5rem;
   }
 `
 
@@ -109,11 +105,6 @@ const MenuButton = styled(RxHamburgerMenu)`
 
   @media (min-width: 801px) {
     display: none;
-  }
-
-  @media (max-width: 400px) {
-    height: 20px;
-    width: 20px;
   }
 `
 
