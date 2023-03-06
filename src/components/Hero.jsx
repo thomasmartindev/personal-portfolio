@@ -12,7 +12,7 @@ export const Hero = () => {
           MARTIN
         </h1>
         <h1>
-          FRONT-END
+          WEB
         </h1>
         <h1>
           DEVELOPER
